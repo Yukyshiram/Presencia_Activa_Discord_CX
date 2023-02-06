@@ -9,7 +9,7 @@
   "keywords": [],
   "author": "Sr_Courtesy_CX",
   "license": "ISC",
-  "description": "",
+  "description": "simple y sensillo de usar",
   "dependencies": {
     "discord.js": "^14.7.1",
     "dotenv": "^16.0.3",
