@@ -9,6 +9,7 @@ discord.js
 npm@9.3.1 
 eris 
 express 
+chalk
 dotenv
 
 sencillo, ejemplo: npm install discord.js
