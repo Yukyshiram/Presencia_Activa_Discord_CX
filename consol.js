@@ -1,5 +1,5 @@
 const chalk = require('chalk');
-const consola = console.log
+const consola = console.log;
 
 console.log(`
 
