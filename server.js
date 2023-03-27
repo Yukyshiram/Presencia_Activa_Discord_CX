@@ -10,7 +10,7 @@ server.all("/", (req, res) => {
 function keepAlive() {
   server.listen(3000, () => {
     console.log("Presencia activa, engañando a Vicemi!");
-    console.log(consola)
+    console.clear();
   });
 }
 
