@@ -1,7 +1,6 @@
 const express = require("express");
 const server = express();
 const chalk = require('chalk');
-const consola = require("./consol")
 
 server.all("/", (req, res) => {
   res.send("Tu cuenta esta on!");
