@@ -13,3 +13,5 @@ ${chalk.cyan('╚═════╝░░╚════╝░╚═╝░░╚
 
 Developer: Im_JVallejo, Git: https://github.com/Yukyshiram, Discord: Sr. Courtesy (CX) #4179
 `)}
+
+module.exports = consola;
