@@ -10,6 +10,7 @@ const bot = new Eris(process.env.TOKEN);
 
 bot.connect();
 
+console.clear();
 consola();
 
 //no recomiendo modificar este codigo
